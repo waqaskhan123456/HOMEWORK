@@ -1,0 +1,35 @@
+#box {
+    border-style: solid;
+    height: 40;
+    width: 60px;
+}
+
+.khan {
+    border-style: solid;
+    height: 200px;
+    width: 1300px;
+}
+
+.a {
+    font-size: 70px;
+}
+
+#b {
+    font-size: 70px;
+}
+
+#c {
+    font-size: 70px;
+}
+
+#d {
+    font-size: 70px;
+}
+
+#kk {
+    text-shadow: 2px 2px red;
+    margin: auto;
+    width: 70%;
+    color: blue;
+    background-color: chartreuse;
+}
